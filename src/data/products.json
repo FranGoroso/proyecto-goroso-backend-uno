@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop Gamer",
+      "price": 1200,
+      "stock": 10,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Teclado Mecánico",
+      "price": 100,
+      "stock": 25,
+      "category": "Accessories"
+    },
+    {
+      "id": 3,
+      "name": "Mouse Inalámbrico",
+      "price": 50,
+      "stock": 30,
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "name": "Monitor 27 pulgadas",
+      "price": 300,
+      "stock": 15,
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Silla Ergonómica",
+      "price": 250,
+      "stock": 5,
+      "category": "Furniture"
+    }
+  ]
+  
